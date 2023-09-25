@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        roboto:['Major Mono Display ,chakra petch']
+        roboto:['Major Mono Display']
       }
     },
   },
